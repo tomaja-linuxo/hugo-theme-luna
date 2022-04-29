@@ -1,14 +1,14 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://hugo-theme-luna.imiku.me/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/</link><managingEditor>Ice-Hazymoon</managingEditor><description>向着现充的生活拼命咸鱼中</description><lastBuildDate>Fri, 15 Apr 2022 02:49:13 +0200</lastBuildDate><language>zh-cn</language><generator>Hugo -- gohugo.io</generator><item><title>画廊（春）</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</guid><description>&lt;h2 id="春天">春天.&lt;/h2>
-&lt;p>&lt;em>今天是大胆风筝飞翔的日子。&lt;/em>&lt;/p>
-&lt;p>&lt;em>当积云在天空中咆哮。&lt;/em>&lt;/p>
-&lt;p>&lt;em>当知更鸟回来，当孩子们欢呼。&lt;/em>&lt;/p>
-&lt;p>&lt;em>当小雨呼唤着春天出现。&lt;/em>&lt;/p>
-&lt;p>&lt;em>今天是水仙花开的日子。&lt;/em>&lt;/p>
-&lt;p>&lt;em>孩子们采摘来填满房间。&lt;/em>&lt;/p>
-&lt;p>&lt;em>今天是草儿绿的日子。&lt;/em>&lt;/p>
-&lt;p>&lt;em>当叶子迸发出来，让人看到春天。&lt;/em>&lt;/p>
-&lt;p>&lt;em>—— 罗伯特-麦克拉肯.&lt;/em>&lt;/p>
-&lt;h2 id="花">花&lt;/h2>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon's Blog</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://hugo-theme-luna.imiku.me/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/</link><managingEditor>Ice-Hazymoon</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Fri, 15 Apr 2022 02:49:13 +0200</lastBuildDate><language>en-us</language><generator>Hugo -- gohugo.io</generator><item><title>Flower Gallery</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</guid><description>&lt;h2 id="spring">Spring.&lt;/h2>
+&lt;p>&lt;em>Today is the day when bold kites fly,&lt;/em>&lt;/p>
+&lt;p>&lt;em>When cumulus clouds roar across the sky.&lt;/em>&lt;/p>
+&lt;p>&lt;em>When robins return,when children cheer,&lt;/em>&lt;/p>
+&lt;p>&lt;em>When light rain beckons spring to appear.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Today is the day when daffodils bloom,&lt;/em>&lt;/p>
+&lt;p>&lt;em>Which children pick to fill the room,&lt;/em>&lt;/p>
+&lt;p>&lt;em>Today is the day when grasses green,&lt;/em>&lt;/p>
+&lt;p>&lt;em>When leaves burst forth for spring to be seen.&lt;/em>&lt;/p>
+&lt;p>&lt;em>—— Robert McCracken .&lt;/em>&lt;/p>
+&lt;h2 id="flower">Flower&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
@@ -30,19 +30,178 @@
 &lt;img src="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/7.jpg"width="1200"height="1022"srcset="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/7_hu2c3220d89c0d7665dccd4ad786654b94_27054_640x0_resize_q95_catmullrom.jpg 640w, https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/7_hu2c3220d89c0d7665dccd4ad786654b94_27054_1080x0_resize_q95_catmullrom.jpg 1080w"/>
 &lt;img src="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/8.jpg"width="1200"height="1800"srcset="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/8_hu1c428075e3e7ab19a5b9971e6af50364_204055_640x0_resize_q95_catmullrom.jpg 640w, https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/8_hu1c428075e3e7ab19a5b9971e6af50364_204055_1080x0_resize_q95_catmullrom.jpg 1080w"/>
 &lt;img src="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/9.jpg"width="1200"height="1800"srcset="https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/9_hud197a2fb04bed1fbdf90bf91c9e02091_59645_640x0_resize_q95_catmullrom.jpg 640w, https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/9_hud197a2fb04bed1fbdf90bf91c9e02091_59645_1080x0_resize_q95_catmullrom.jpg 1080w"/>
-&lt;/p></description></item><item><title>中文排版测试</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/typo-cn.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/typo-cn.html/</guid><description>&lt;h2 id="中文文章排版实例论语学而篇第一">中文文章排版实例：论语学而篇第一&lt;/h2>
-&lt;p>&lt;strong>作者：&lt;/strong> 孔子（ 前551年9月28日－前479年4月11日 ）&lt;/p>
-&lt;h3 id="本篇引语">本篇引语&lt;/h3>
-&lt;p>《学而》是《论语》第一篇的篇名。 &lt;strong>《论语》&lt;/strong> 中各篇一般都是以第一章的前二三个字作为该&lt;del>篇的篇名&lt;/del>。《学而》一篇包括16章，内容涉及诸多方面。其中重点是「吾日三省吾身」；「节用而爱人，使民以时」；「礼之用，和为贵」以及仁、孝、信等道德范畴。&lt;/p>
-&lt;h3 id="原文">原文&lt;/h3>
-&lt;p>子曰：&lt;em>「学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知，而不愠，不亦君子乎？」&lt;/em>&lt;/p>
-&lt;h3 id="译文">译文&lt;/h3>
-&lt;p>孔子说：「学了又时常温习和练习，不是很愉快吗？有志同道合的人从远方来，&lt;code>inline code&lt;/code> 不是很令人高兴的吗？人家不了解我，我也不怨恨、恼怒，不也是一个有德的君子吗？」&lt;/p>
-&lt;h3 id="评析">评析&lt;/h3>
-&lt;p>宋代著名学者朱熹对此章评价极高，说它是 &lt;strong>「入道之门，积德之基」&lt;/strong> 。本章这三句话是人们非常熟悉的。历来的解释都是：学了以后，又时常温习和练习，不也高兴吗等等。三句话，一句一个意思，前后句子也没有什么连贯性。但也有人认为这样解释不符合原义，指出这里的「学」不是指学习，而是指学说或主张；&lt;del>「时」不能解为时常，而是时代或社会的意思&lt;/del>，「习」不是温习，而是使用，引申为采用。而且，这三句话不是孤立的，而是前后相互连贯的。这三句的意思是：自己的学说，要是被社会采用了，那就太高兴了；退一步说，要是没有被社会所采用，可是很多朋友赞同我的学说，纷纷到我这里来讨论问题，我也感到快乐；再退一步说，即使社会不采用，人们也不理解我，我也不怨恨，这样做，不也就是君子吗？（见&lt;a class="link" href="https://baike.baidu.com/item/%E9%BD%90%E9%B2%81%E5%AD%A6%E5%88%8A/10666044"target="_blank" rel="noopener">《齐鲁学刊》&lt;/a>1986年第6期文）这种解释可以&lt;code>自圆其说&lt;/code>，而且也有一定的道理，供读者在理解本章内容时参考。&lt;/p>
-&lt;p>此外，在对「&lt;a class="link" href="https://baike.baidu.com/item/%E4%BA%BA%E4%B8%8D%E7%9F%A5%E8%80%8C%E4%B8%8D%E6%84%A0%EF%BC%8C%E4%B8%8D%E4%BA%A6%E5%90%9B%E5%AD%90%E4%B9%8E/2867323"target="_blank" rel="noopener">人不知，而不愠&lt;/a>」一句的解释中，也有人认为，「人不知」的后面没有宾语，人家不知道什么呢？当时因为孔子有说话的特定环境，他不需要说出知道什么，别人就可以理解了，却给后人留下一个谜。有人说，这一句是接上一句说的，从远方来的朋友向我求教，我告诉他，他还不懂，我却不怨恨。这样，「人不知」就是「人家不知道我所讲述的」了。这样的解释似乎有些牵强。&lt;/p>
-&lt;p>总之，本章提出以学习为乐事，做到人不知而不愠，反映出孔子学而不厌、诲人不倦、注重修养、严格要求自己的主张。这些思想主张在《论语》书中多处可见，有助于对第一章内容的深入了解。&lt;/p>
-&lt;h2 id="表格">表格&lt;/h2>
+&lt;/p></description></item><item><title>Typography</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/typography-en.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/typography-en.html/</guid><description>&lt;p>Until now, trying to style an article, document, or blog post with Tailwind has been a tedious task that required a keen eye for typography and a lot of complex custom CSS.&lt;/p>
+&lt;p>By default, Tailwind removes all of the default browser styling from paragraphs, headings, lists and more. This ends up being really useful for building application UIs because you spend less time undoing user-agent styles, but when you &lt;em>really are&lt;/em> just trying to style some content that came from a rich-text editor in a CMS or a markdown file, it can be surprising and unintuitive.&lt;/p>
+&lt;p>We get lots of complaints about it actually, with people regularly asking us things like:&lt;/p>
+&lt;blockquote>
+&lt;p>Why is Tailwind removing the default styles on my &lt;code>h1&lt;/code> elements? How do I disable this? What do you mean I lose all the other base styles too?&lt;/p>
+&lt;/blockquote>
+&lt;p>We hear you, but we&amp;rsquo;re not convinced that simply disabling our base styles is what you really want. You don&amp;rsquo;t want to have to remove annoying margins every time you use a &lt;code>p&lt;/code> element in a piece of your dashboard UI. And I doubt you really want your blog posts to use the user-agent styles either — you want them to look &lt;em>awesome&lt;/em>, not awful.&lt;/p>
+&lt;p>The &lt;code>@tailwindcss/typography&lt;/code> plugin is our attempt to give you what you &lt;em>actually&lt;/em> want, without any of the downsides of doing something stupid like disabling our base styles.&lt;/p>
+&lt;p>It adds a new &lt;code>prose&lt;/code> class that you can slap on any block of vanilla HTML content and turn it into a beautiful, well-formatted document:&lt;/p>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">199
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">200
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">201
+&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">202
+&lt;/span>&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">203
+&lt;/span>&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">204
+&lt;/span>&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">205
+&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">206
+&lt;/span>&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">207
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">208
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">209
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">210
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">211
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code class="language-html" data-lang="html">&lt;span style="display:flex;">&lt;span>&amp;lt;&lt;span style="color:#ff79c6">article&lt;/span> &lt;span style="color:#50fa7b">class&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;prose&amp;#34;&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#ff79c6">h1&lt;/span>&amp;gt;Garlic bread with cheese: What the science tells us&amp;lt;/&lt;span style="color:#ff79c6">h1&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;&lt;span style="color:#ff79c6">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> For years parents have espoused the health benefits of eating garlic bread with cheese to their
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> children, with the food earning such an iconic status in our culture that kids will often dress
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> up as warm, cheesy loaf for Halloween.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#ff79c6">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> &amp;lt;&lt;span style="color:#ff79c6">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> But a recent study shows that the celebrated appetizer may be linked to a series of rabies cases
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> springing up around the country.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;/&lt;span style="color:#ff79c6">p&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#6272a4">&amp;lt;!-- ... --&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&amp;lt;/&lt;span style="color:#ff79c6">article&lt;/span>&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>For more information about how to use the plugin and the features it includes, &lt;a class="link" href="https://github.com/tailwindcss/typography/blob/master/README.md"target="_blank" rel="noopener">read the documentation&lt;/a>.&lt;/p>
+&lt;hr>
+&lt;h2 id="what-to-expect-from-here-on-out">What to expect from here on out&lt;/h2>
+&lt;p>What follows from here is just a bunch of absolute nonsense I&amp;rsquo;ve written to dogfood the plugin itself. It includes every sensible typographic element I could think of, like &lt;strong>bold text&lt;/strong>, unordered lists, ordered lists, code blocks, block quotes, &lt;em>and even italics&lt;/em>.&lt;/p>
+&lt;p>It&amp;rsquo;s important to cover all of these use cases for a few reasons:&lt;/p>
+&lt;ol>
+&lt;li>We want everything to look good out of the box.&lt;/li>
+&lt;li>Really just the first reason, that&amp;rsquo;s the whole point of the plugin.&lt;/li>
+&lt;li>Here&amp;rsquo;s a third pretend reason though a list with three items looks more realistic than a list with two items.&lt;/li>
+&lt;/ol>
+&lt;p>Now we&amp;rsquo;re going to try out another header style.&lt;/p>
+&lt;h3 id="typography-should-be-easy">Typography should be easy&lt;/h3>
+&lt;p>So that&amp;rsquo;s a header for you — with any luck if we&amp;rsquo;ve done our job correctly that will look pretty reasonable.&lt;/p>
+&lt;p>Something a wise person once told me about typography is:&lt;/p>
+&lt;blockquote>
+&lt;p>Typography is pretty important if you don&amp;rsquo;t want your stuff to look like trash. Make it good then it won&amp;rsquo;t be bad.&lt;/p>
+&lt;/blockquote>
+&lt;p>It&amp;rsquo;s probably important that images look okay here by default as well:&lt;/p>
+&lt;p>
+&lt;img src="https://images.unsplash.com/photo-1556740758-90de374c12ad?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1000&amp;amp;q=80"alt="Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."/>
+&lt;/p>
+&lt;p>Now I&amp;rsquo;m going to show you an example of an unordered list to make sure that looks good, too:&lt;/p>
+&lt;ul>
+&lt;li>So here is the first item in this list.&lt;/li>
+&lt;li>In this example we&amp;rsquo;re keeping the items short.&lt;/li>
+&lt;li>Later, we&amp;rsquo;ll use longer, more complex list items.&lt;/li>
+&lt;/ul>
+&lt;p>And that&amp;rsquo;s the end of this section.&lt;/p>
+&lt;h2 id="what-if-we-stack-headings">What if we stack headings?&lt;/h2>
+&lt;h3 id="we-should-make-sure-that-looks-good-too">We should make sure that looks good, too.&lt;/h3>
+&lt;p>Sometimes you have headings directly underneath each other. In those cases you often have to undo the top margin on the second heading because it usually looks better for the headings to be closer together than a paragraph followed by a heading should be.&lt;/p>
+&lt;h3 id="when-a-heading-comes-after-a-paragraph-">When a heading comes after a paragraph …&lt;/h3>
+&lt;p>When a heading comes after a paragraph, we need a bit more space, like I already mentioned above. Now let&amp;rsquo;s see what a more complex list would look like.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>I often do this thing where list items have headings.&lt;/strong>&lt;/p>
+&lt;p>For some reason I think this looks cool which is unfortunate because it&amp;rsquo;s pretty annoying to get the styles right.&lt;/p>
+&lt;p>I often have two or three paragraphs in these list items, too, so the hard part is getting the spacing between the paragraphs, list item heading, and separate list items to all make sense. Pretty tough honestly, you could make a strong argument that you just shouldn&amp;rsquo;t write this way.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Since this is a list, I need at least two items.&lt;/strong>&lt;/p>
+&lt;p>I explained what I&amp;rsquo;m doing already in the previous list item, but a list wouldn&amp;rsquo;t be a list if it only had one item, and we really want this to look realistic. That&amp;rsquo;s why I&amp;rsquo;ve added this second list item so I actually have something to look at when writing the styles.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>It&amp;rsquo;s not a bad idea to add a third item either.&lt;/strong>&lt;/p>
+&lt;p>I think it probably would&amp;rsquo;ve been fine to just use two items but three is definitely not worse, and since I seem to be having no trouble making up arbitrary things to type, I might as well include it.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>After this sort of list I usually have a closing statement or paragraph, because it kinda looks weird jumping right to a heading.&lt;/p>
+&lt;h2 id="code-should-look-okay-by-default">Code should look okay by default.&lt;/h2>
+&lt;p>I think most people are going to use &lt;a class="link" href="https://highlightjs.org/"target="_blank" rel="noopener">highlight.js&lt;/a> or &lt;a class="link" href="https://prismjs.com/"target="_blank" rel="noopener">Prism&lt;/a> or something if they want to style their code blocks but it wouldn&amp;rsquo;t hurt to make them look &lt;em>okay&lt;/em> out of the box, even with no syntax highlighting.&lt;/p>
+&lt;p>Here&amp;rsquo;s what a default &lt;code>tailwind.config.js&lt;/code> file looks like at the time of writing:&lt;/p>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-js" data-lang="js">&lt;span style="display:flex;">&lt;span>module.exports &lt;span style="color:#ff79c6">=&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> purge&lt;span style="color:#ff79c6">:&lt;/span> [],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> theme&lt;span style="color:#ff79c6">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> extend&lt;span style="color:#ff79c6">:&lt;/span> {},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> },
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> variants&lt;span style="color:#ff79c6">:&lt;/span> {},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> plugins&lt;span style="color:#ff79c6">:&lt;/span> [],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>Hopefully that looks good enough to you.&lt;/p>
+&lt;h3 id="what-about-nested-lists">What about nested lists?&lt;/h3>
+&lt;p>Nested lists basically always look bad which is why editors like Medium don&amp;rsquo;t even let you do it, but I guess since some of you goofballs are going to do it we have to carry the burden of at least making it work.&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Nested lists are rarely a good idea.&lt;/strong>
+&lt;ul>
+&lt;li>You might feel like you are being really &amp;ldquo;organized&amp;rdquo; or something but you are just creating a gross shape on the screen that is hard to read.&lt;/li>
+&lt;li>Nested navigation in UIs is a bad idea too, keep things as flat as possible.&lt;/li>
+&lt;li>Nesting tons of folders in your source code is also not helpful.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Since we need to have more items, here&amp;rsquo;s another one.&lt;/strong>
+&lt;ul>
+&lt;li>I&amp;rsquo;m not sure if we&amp;rsquo;ll bother styling more than two levels deep.&lt;/li>
+&lt;li>Two is already too much, three is guaranteed to be a bad idea.&lt;/li>
+&lt;li>If you nest four levels deep you belong in prison.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Two items isn&amp;rsquo;t really a list, three is good though.&lt;/strong>
+&lt;ul>
+&lt;li>Again please don&amp;rsquo;t nest lists if you want people to actually read your content.&lt;/li>
+&lt;li>Nobody wants to look at this.&lt;/li>
+&lt;li>I&amp;rsquo;m upset that we even have to bother styling this.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>The most annoying thing about lists in Markdown is that &lt;code>&amp;lt;li&amp;gt;&lt;/code> elements aren&amp;rsquo;t given a child &lt;code>&amp;lt;p&amp;gt;&lt;/code> tag unless there are multiple paragraphs in the list item. That means I have to worry about styling that annoying situation too.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>For example, here&amp;rsquo;s another nested list.&lt;/strong>&lt;/p>
+&lt;p>But this time with a second paragraph.&lt;/p>
+&lt;ul>
+&lt;li>These list items won&amp;rsquo;t have &lt;code>&amp;lt;p&amp;gt;&lt;/code> tags&lt;/li>
+&lt;li>Because they are only one line each&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>But in this second top-level list item, they will.&lt;/strong>&lt;/p>
+&lt;p>This is especially annoying because of the spacing on this paragraph.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>As you can see here, because I&amp;rsquo;ve added a second line, this list item now has a &lt;code>&amp;lt;p&amp;gt;&lt;/code> tag.&lt;/p>
+&lt;p>This is the second line I&amp;rsquo;m talking about by the way.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Finally here&amp;rsquo;s another list item so it&amp;rsquo;s more like a list.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>A closing list item, but with no nested list, because why not?&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>And finally a sentence to close off this section.&lt;/p>
+&lt;h2 id="there-are-other-elements-we-need-to-style">There are other elements we need to style&lt;/h2>
+&lt;p>I almost forgot to mention links, like &lt;a class="link" href="https://tailwindcss.com"target="_blank" rel="noopener">this link to the Tailwind CSS website&lt;/a>. We almost made them blue but that&amp;rsquo;s so yesterday, so we went with dark gray, feels edgier.&lt;/p>
+&lt;p>We even included table styles, check it out:&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -79,102 +238,19 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="代码块">代码块&lt;/h2>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">199
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">200
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">201
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">202
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">203
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">204
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">205
-&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">206
-&lt;/span>&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">207
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">208
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">209
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">210
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">211
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">212
-&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">213
-&lt;/span>&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">214
-&lt;/span>&lt;/span>&lt;span style="background-color:#3d3f4a">&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">215
-&lt;/span>&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">216
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">217
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">218
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// GetTitleFunc returns a func that can be used to transform a string to
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// title case.
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">//
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// The supported styles are
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">//
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// - &amp;#34;Go&amp;#34; (strings.Title)
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// - &amp;#34;AP&amp;#34; (see https://www.apstylebook.com/)
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span>&lt;span style="color:#6272a4">// - &amp;#34;Chicago&amp;#34; (see https://www.chicagomanualofstyle.org/home.html)
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">//
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">// If an unknown or empty style is provided, AP style is what you get.
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#6272a4">&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">func&lt;/span> &lt;span style="color:#50fa7b">GetTitleFunc&lt;/span>(style &lt;span style="color:#8be9fd">string&lt;/span>) &lt;span style="color:#8be9fd;font-style:italic">func&lt;/span>(s &lt;span style="color:#8be9fd">string&lt;/span>) &lt;span style="color:#8be9fd">string&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">switch&lt;/span> strings.&lt;span style="color:#50fa7b">ToLower&lt;/span>(style) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">case&lt;/span> &lt;span style="color:#f1fa8c">&amp;#34;go&amp;#34;&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> strings.Title
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> &lt;span style="color:#ff79c6">case&lt;/span> &lt;span style="color:#f1fa8c">&amp;#34;chicago&amp;#34;&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> transform.&lt;span style="color:#50fa7b">NewTitleConverter&lt;/span>(transform.ChicagoStyle)
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3d3f4a">&lt;span> &lt;span style="color:#ff79c6">default&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> transform.&lt;span style="color:#50fa7b">NewTitleConverter&lt;/span>(transform.APStyle)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;h2 id="列表">列表&lt;/h2>
-&lt;ol>
-&lt;li>&lt;strong>Nested lists are rarely a good idea.&lt;/strong>
-&lt;ul>
-&lt;li>You might feel like you are being really &amp;ldquo;organized&amp;rdquo; or something but you are just creating a gross shape on the screen that is hard to read.&lt;/li>
-&lt;li>Nested navigation in UIs is a bad idea too, keep things as flat as possible.&lt;/li>
-&lt;li>Nesting tons of folders in your source code is also not helpful.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Since we need to have more items, here&amp;rsquo;s another one.&lt;/strong>
-&lt;ul>
-&lt;li>I&amp;rsquo;m not sure if we&amp;rsquo;ll bother styling more than two levels deep.&lt;/li>
-&lt;li>Two is already too much, three is guaranteed to be a bad idea.&lt;/li>
-&lt;li>If you nest four levels deep you belong in prison.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Two items isn&amp;rsquo;t really a list, three is good though.&lt;/strong>
-&lt;ul>
-&lt;li>Again please don&amp;rsquo;t nest lists if you want people to actually read your content.&lt;/li>
-&lt;li>Nobody wants to look at this.&lt;/li>
-&lt;li>I&amp;rsquo;m upset that we even have to bother styling this.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ol>
-&lt;hr>
-&lt;ul>
-&lt;li>If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.&lt;/br>
-如果你希望成功，当以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。&lt;/li>
-&lt;li>Sometimes one pays most for the things one gets for nothing. &lt;/br>
-有时候一个人为不花钱得到的东西付出的代价最高。&lt;/li>
-&lt;li>Only those who have the patience to do simple things perfectly ever acquire the skill to do difficult things easily. &lt;/br>
-只有有耐心圆满完成简单工作的人，才能够轻而易举的完成困难的事。&lt;/li>
-&lt;/ul>
-&lt;h2 id="引用">引用&lt;/h2>
-&lt;blockquote>
-&lt;p>　　我想：我同赵贵翁有什么仇，同路上的人又有什么仇；只有廿年以前，把古久先生的陈年流水簿子⑶，踹了一脚，古久先生很不高兴。赵贵翁虽然不认识他，一定也听到风声，代抱不平；约定路上的人，同我作冤对。但是小孩子呢？那时候，他们还没有出世，何以今天也睁着怪眼睛，似乎怕我，似乎想害我。这真教我怕，教我纳罕而且伤心。&lt;/p>
-&lt;/blockquote>
-&lt;h3 id="套娃引用">套娃引用&lt;/h3>
-&lt;blockquote>
-&lt;h2 id="呐喊">呐喊&lt;/h2>
-&lt;p>题作呐喊，就是为革命者助战振威。呐喊中的小说，以振聋发聩的气势，揭示了中国的社会面貌，控诉了封建制度的罪恶，喊出了五四时期革命者的心声。&lt;/p>
-&lt;blockquote>
-&lt;p>我不见他，已是三十多年；今天见了，精神分外爽快。才知道以前的三十多年，全是发昏；然而须十分小心。不然，那赵家的狗，何以看我两眼呢？ —— 鲁迅&lt;/p>
-&lt;blockquote>
-&lt;p>使劲套娃&lt;/p>
-&lt;/blockquote>
-&lt;/blockquote>
-&lt;/blockquote>
-&lt;h2 id="数学公式">数学公式&lt;/h2>
+&lt;p>We also need to make sure inline code looks good, like if I wanted to talk about &lt;code>&amp;lt;span&amp;gt;&lt;/code> elements or tell you the good news about &lt;code>@tailwindcss/typography&lt;/code>.&lt;/p>
+&lt;h3 id="sometimes-i-even-use-code-in-headings">Sometimes I even use &lt;code>code&lt;/code> in headings&lt;/h3>
+&lt;p>Even though it&amp;rsquo;s probably a bad idea, and historically I&amp;rsquo;ve had a hard time making it look good. This &lt;em>&amp;ldquo;wrap the code blocks in backticks&amp;rdquo;&lt;/em> trick works pretty well though really.&lt;/p>
+&lt;p>Another thing I&amp;rsquo;ve done in the past is put a &lt;code>code&lt;/code> tag inside of a link, like if I wanted to tell you about the &lt;a class="link" href="https://github.com/tailwindcss/docs"target="_blank" rel="noopener">&lt;code>tailwindcss/docs&lt;/code>&lt;/a> repository. I don&amp;rsquo;t love that there is an underline below the backticks but it is absolutely not worth the madness it would require to avoid it.&lt;/p>
+&lt;h4 id="we-havent-used-an-h4-yet">We haven&amp;rsquo;t used an &lt;code>h4&lt;/code> yet&lt;/h4>
+&lt;p>But now we have. Please don&amp;rsquo;t use &lt;code>h5&lt;/code> or &lt;code>h6&lt;/code> in your content, Medium only supports two heading levels for a reason, you animals. I honestly considered using a &lt;code>before&lt;/code> pseudo-element to scream at you if you use an &lt;code>h5&lt;/code> or &lt;code>h6&lt;/code>.&lt;/p>
+&lt;p>We don&amp;rsquo;t style them at all out of the box because &lt;code>h4&lt;/code> elements are already so small that they are the same size as the body copy. What are we supposed to do with an &lt;code>h5&lt;/code>, make it &lt;em>smaller&lt;/em> than the body copy? No thanks.&lt;/p>
+&lt;h3 id="we-still-need-to-think-about-stacked-headings-though">We still need to think about stacked headings though.&lt;/h3>
+&lt;h4 id="lets-make-sure-we-dont-screw-that-up-with-h4-elements-either">Let&amp;rsquo;s make sure we don&amp;rsquo;t screw that up with &lt;code>h4&lt;/code> elements, either.&lt;/h4>
+&lt;p>Phew, with any luck we have styled the headings above this text and they look pretty good.&lt;/p>
+&lt;p>Let&amp;rsquo;s add a closing paragraph here so things end with a decently sized block of text. I can&amp;rsquo;t explain why I want things to end that way but I have to assume it&amp;rsquo;s because I think things will look weird or unbalanced if there is a heading too close to the end of the document.&lt;/p>
+&lt;p>What I&amp;rsquo;ve written here is probably long enough, but adding this final sentence can&amp;rsquo;t hurt.&lt;/p>
+&lt;h2 id="math">Math&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
@@ -195,7 +271,7 @@
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-TeX" data-lang="TeX">&lt;span style="display:flex;">&lt;span>这是一条行内公式：&lt;span style="color:#f1fa8c">$&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> E&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">{&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\sqrt&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> {p^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}&lt;/span>&lt;span style="color:#ff79c6">+&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">m^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">4&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}}}&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\gamma&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> mc^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">} &lt;/span>&lt;span style="color:#f1fa8c">$&lt;/span>
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-TeX" data-lang="TeX">&lt;span style="display:flex;">&lt;span>this is a inline katex: &lt;span style="color:#f1fa8c">$&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> E&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">{&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\sqrt&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> {p^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}&lt;/span>&lt;span style="color:#ff79c6">+&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">m^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">4&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}}}&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\gamma&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> mc^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">} &lt;/span>&lt;span style="color:#f1fa8c">$&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f1fa8c">$&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> E&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">{&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\sqrt&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> {p^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}&lt;/span>&lt;span style="color:#ff79c6">+&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">m^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}c^{&lt;/span>&lt;span style="color:#bd93f9">4&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">}}}&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">\gamma&lt;/span>&lt;span style="color:#8be9fd;font-style:italic"> mc^{&lt;/span>&lt;span style="color:#bd93f9">2&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">} &lt;/span>&lt;span style="color:#f1fa8c">$&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
@@ -213,7 +289,7 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">\end&lt;/span>&lt;span style="color:#8be9fd;font-style:italic">{&lt;/span>align&lt;span style="color:#8be9fd;font-style:italic">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;p>这是一条行内公式：$ E={\sqrt {p^{2}c^{2}+m^{2}c^{4}}}=\gamma mc^{2} $&lt;/p>
+&lt;/div>&lt;p>this is a inline katex: $ E={\sqrt {p^{2}c^{2}+m^{2}c^{4}}}=\gamma mc^{2} $&lt;/p>
 &lt;p>$$ E_{0}=mc^{2} $$&lt;/p>
 &lt;p>$$
 {\mathrm d}K={\mathbf F}\cdot {\mathrm d}{\mathbf x}={\frac {{\mathrm d}{\mathbf p}}{{\mathrm d}t}}\cdot {\mathrm d}{\mathbf x}={\frac {{\mathrm d}{\mathbf x}}{{\mathrm d}t}}\cdot {\mathrm d}{\mathbf p}
@@ -222,9 +298,9 @@ $$&lt;/p>
 &lt;p>\begin{align}
 p(v_i=1|\mathbf{h}) &amp;amp; = \sigma\left(\sum_j w_{ij}h_j + b_i\right) \
 p(h_j=1|\mathbf{v}) &amp;amp; = \sigma\left(\sum_i w_{ij}v_i + c_j\right)
-\end{align}&lt;/p></description></item><item><title>加密文章测试</title><link>https://hugo-theme-luna.imiku.me/2022/04/09/hugo-encrypt.html/</link><pubDate>Sat, 09 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/09/hugo-encrypt.html/</guid><description>&lt;h2 id="加密文章测试">加密文章测试&lt;/h2>
+\end{align}&lt;/p></description></item><item><title>Article Encryption Test</title><link>https://hugo-theme-luna.imiku.me/2022/04/09/article-encryption-test.html/</link><pubDate>Sat, 09 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/09/article-encryption-test.html/</guid><description>&lt;h2 id="hugo-encrypt">Hugo Encrypt&lt;/h2>
 &lt;blockquote>
-&lt;p>密码：&lt;strong>2022&lt;/strong>&lt;/p>
+&lt;p>password: &lt;strong>2022&lt;/strong>&lt;/p>
 &lt;/blockquote>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
@@ -242,33 +318,33 @@ p(h_j=1|\mathbf{v}) &amp;amp; = \sigma\left(\sum_i w_{ij}v_i + c_j\right)
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{% hugo-encrypt 2022 %}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold">### 这里是加密内容
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold">### Here is the encrypted content
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="font-weight:bold">&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>test content
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#ff79c6">加密图片测试&lt;/span>](&lt;span style="color:#50fa7b">test.jpg&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#ff79c6">Night city&lt;/span>](&lt;span style="color:#50fa7b">test.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f1fa8c">```js
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f1fa8c">&lt;/span>console.log(&lt;span style="color:#f1fa8c">&amp;#39;加密代码块测试&amp;#39;&lt;/span>);
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f1fa8c">&lt;/span>console.log(&lt;span style="color:#f1fa8c">&amp;#39;some codes&amp;#39;&lt;/span>);
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f1fa8c">```&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{% /hugo-encrypt %}}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>
-&lt;p>此处包含密码保护内容&lt;/p>
+&lt;p>The following content is protected.&lt;/p>
 &lt;hr>
-&lt;h2 id="多块测试">多块测试&lt;/h2>
+&lt;h2 id="multi-block-encryption">Multi-block encryption&lt;/h2>
 &lt;blockquote>
-&lt;p>默认密码：&lt;strong>123456&lt;/strong>&lt;/p>
+&lt;p>Default password: &lt;strong>123456&lt;/strong>&lt;/p>
 &lt;/blockquote>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{%hugo-encrypt %}}`这里是第二段密文`{{%/hugo-encrypt %}}
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{% hugo-encrypt %}}`Here is the test content `{{% /hugo-encrypt %}}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>
-&lt;p>此处包含密码保护内容&lt;/p>
-&lt;p>小尾巴~&lt;/p></description></item><item><title/><link>https://hugo-theme-luna.imiku.me/2019/02/16/.html/</link><pubDate>Sat, 16 Feb 2019 07:01:32 +0000</pubDate><guid>https://hugo-theme-luna.imiku.me/2019/02/16/.html/</guid><description>&lt;p>Hugo 主题 Luna 已发布，欢迎使用！&lt;/p></description></item></channel></rss>
+&lt;p>The following content is protected.&lt;/p>
+&lt;p>End&amp;hellip;&lt;/p></description></item><item><title/><link>https://hugo-theme-luna.imiku.me/2019/02/15/.html/</link><pubDate>Fri, 15 Feb 2019 07:01:32 +0000</pubDate><guid>https://hugo-theme-luna.imiku.me/2019/02/15/.html/</guid><description>&lt;p>Hugo theme luna has been released, welcome to use it!&lt;/p></description></item></channel></rss>
