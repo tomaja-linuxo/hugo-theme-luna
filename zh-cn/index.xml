@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/zh-cn/index.xml%20https://hugo-theme-luna.imiku.me/zh-cn/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/zh-cn/</link><managingEditor>Ice-Hazymoon</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>en-us</language><generator>Hugo -- gohugo.io</generator><item><title>Shortcodes</title><link>https://hugo-theme-luna.imiku.me/zh-cn/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/zh-cn/2022/05/02/shortcodes.html/</guid><description>&lt;h2 id="文字排版">文字排版&lt;/h2>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/zh-cn/index.xml%20https://hugo-theme-luna.imiku.me/zh-cn/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/zh-cn/</link><managingEditor>Ice-Hazymoon</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>en-us</language><generator>Hugo -- gohugo.io</generator><item><title>短代码（Shortcodes）</title><link>https://hugo-theme-luna.imiku.me/zh-cn/2022/05/02/%E7%9F%AD%E4%BB%A3%E7%A0%81shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/zh-cn/2022/05/02/%E7%9F%AD%E4%BB%A3%E7%A0%81shortcodes.html/</guid><description>&lt;h2 id="文字排版">文字排版&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
@@ -356,7 +356,7 @@
 &lt;li>Fish&lt;/li>
 &lt;/ul>
 &lt;/div></description></item><item><title>画廊（春）</title><link>https://hugo-theme-luna.imiku.me/zh-cn/2022/04/15/flower-gallery.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/zh-cn/2022/04/15/flower-gallery.html/</guid><description>&lt;h2 id="春天">春天.&lt;/h2>
-&lt;p>&lt;em>今天是大胆风筝飞翔的日子。&lt;/em>&lt;/p>
+&lt;blockquote class="quote quote-center text-center rounded-none relative border-y border-gray-200 dark:border-darkBorder py-4">&lt;p>&lt;em>今天是大胆风筝飞翔的日子。&lt;/em>&lt;/p>
 &lt;p>&lt;em>当积云在天空中咆哮。&lt;/em>&lt;/p>
 &lt;p>&lt;em>当知更鸟回来，当孩子们欢呼。&lt;/em>&lt;/p>
 &lt;p>&lt;em>当小雨呼唤着春天出现。&lt;/em>&lt;/p>
@@ -364,7 +364,8 @@
 &lt;p>&lt;em>孩子们采摘来填满房间。&lt;/em>&lt;/p>
 &lt;p>&lt;em>今天是草儿绿的日子。&lt;/em>&lt;/p>
 &lt;p>&lt;em>当叶子迸发出来，让人看到春天。&lt;/em>&lt;/p>
-&lt;p>&lt;em>—— 罗伯特-麦克拉肯.&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p style="text-align:right">—— 罗伯特-麦克拉肯.&lt;/p>
 &lt;h2 id="花">花&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
