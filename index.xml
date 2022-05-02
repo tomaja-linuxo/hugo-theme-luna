@@ -1,5 +1,356 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon's Blog</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://hugo-theme-luna.imiku.me/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/</link><managingEditor>Ice-Hazymoon</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Fri, 15 Apr 2022 02:49:13 +0200</lastBuildDate><language>en-us</language><generator>Hugo -- gohugo.io</generator><item><title>Flower Gallery</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</guid><description>&lt;h2 id="spring">Spring.&lt;/h2>
-&lt;p>&lt;em>Today is the day when bold kites fly,&lt;/em>&lt;/p>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Ice-Hazymoon's Blog</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://hugo-theme-luna.imiku.me/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://hugo-theme-luna.imiku.me/</link><managingEditor>Ice-Hazymoon</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>en-us</language><generator>Hugo -- gohugo.io</generator><item><title>Shortcodes</title><link>https://hugo-theme-luna.imiku.me/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/05/02/shortcodes.html/</guid><description>&lt;h2 id="text-layout">Text layout&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">align&lt;/span> &lt;span style="color:#50fa7b">left&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Text&lt;/span> &lt;span style="color:#50fa7b">left&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">align&lt;/span> &lt;span style="color:#50fa7b">center&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Text&lt;/span> &lt;span style="color:#50fa7b">center&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">align&lt;/span> &lt;span style="color:#50fa7b">right&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Text&lt;/span> &lt;span style="color:#50fa7b">right&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p style="text-align:left">Text left&lt;/p>
+&lt;p style="text-align:center">Text center&lt;/p>
+&lt;p style="text-align:right">Text right&lt;/p>
+&lt;h2 id="github">GitHub&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">github&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;hugo&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">link&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://github.com/gohugoio/hugo&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">description&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;The world’s fastest framework for building websites.&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">color&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;#00ADD8&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">language&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;Go&amp;#34;&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="github border dark:border-darkBorder p-4 rounded my-4">
+&lt;div class="flex items-center text-xl">
+&lt;i class="eva eva-github mr-2">&lt;/i>
+&lt;a class=" before:hidden" href=https://github.com/gohugoio/hugo target="_blank">hugo&lt;/a>
+&lt;/div>
+&lt;div class=" leading-6 my-2">The world’s fastest framework for building websites.&lt;/div>
+&lt;div class="flex items-center">
+&lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #00ADD8">&lt;/span>
+&lt;span>Go&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="github-auto">GitHub Auto&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">github-auto&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;Ice-Hazymoon/hugo-theme-luna&amp;#34;&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="github border dark:border-darkBorder p-4 rounded my-4">
+&lt;div class="flex items-center text-xl">
+&lt;i class="eva eva-github mr-2">&lt;/i>
+&lt;a class=" before:hidden" href=https://github.com/Ice-Hazymoon/hugo-theme-luna target="_blank">hugo-theme-luna&lt;/a>
+&lt;/div>
+&lt;div class=" leading-6 my-2">A simple, performance-first, SEO-friendly Hugo theme&lt;/div>
+&lt;div class=" flex items-center">
+&lt;div class=" inline-flex items-center mr-4">
+&lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #f1e05a">&lt;/span>
+&lt;span>JavaScript&lt;/span>
+&lt;/div>
+&lt;div class=" inline-flex items-center mr-4">
+&lt;i class="eva eva-star mr-1 text-amber-400">&lt;/i>
+&lt;span>39&lt;/span>
+&lt;/div>
+&lt;div class=" inline-flex items-center">
+&lt;i class="eva eva-shuffle-2 mr-1 text-blue-500">&lt;/i>
+&lt;span>1&lt;/span>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="notice">Notice&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">warn&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Let life be beautiful like summer flowers and death like autumn leaves.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">error&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Let life be beautiful like summer flowers and death like autumn leaves.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">info&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Let life be beautiful like summer flowers and death like autumn leaves.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">success&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Let life be beautiful like summer flowers and death like autumn leaves.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>
+&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
+&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
+&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
+&lt;div class="rounded border-l-4 border-yellow-400 bg-yellow-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
+&lt;div class=" mr-2">
+&lt;i class="eva text-2xl text-yellow-400 eva-alert-circle-outline">&lt;/i>
+&lt;/div>&lt;p style="margin: 0;">Let life be beautiful like summer flowers and death like autumn leaves.&lt;/p>&lt;/div>
+&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
+&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
+&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
+&lt;div class="rounded border-l-4 border-red-400 bg-red-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
+&lt;div class=" mr-2">
+&lt;i class="eva text-2xl text-red-400 eva-minus-circle-outline">&lt;/i>
+&lt;/div>&lt;p style="margin: 0;">Let life be beautiful like summer flowers and death like autumn leaves.&lt;/p>&lt;/div>
+&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
+&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
+&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
+&lt;div class="rounded border-l-4 border-blue-400 bg-blue-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
+&lt;div class=" mr-2">
+&lt;i class="eva text-2xl text-blue-400 eva-question-mark-circle-outline">&lt;/i>
+&lt;/div>&lt;p style="margin: 0;">Let life be beautiful like summer flowers and death like autumn leaves.&lt;/p>&lt;/div>
+&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
+&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
+&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
+&lt;div class="rounded border-l-4 border-green-400 bg-green-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
+&lt;div class=" mr-2">
+&lt;i class="eva text-2xl text-green-400 eva-checkmark-circle-2-outline">&lt;/i>
+&lt;/div>&lt;p style="margin: 0;">Let life be beautiful like summer flowers and death like autumn leaves.&lt;/p>&lt;/div>
+&lt;h2 id="quote">Quote&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">quote&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Let life be beautiful like summer flowers and death like autumn leaves.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">quote&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote class="quote relative text-gray-500 dark:text-gray-400 pl-10">
+&lt;p>Let life be beautiful like summer flowers and death like autumn leaves.&lt;/p>&lt;/blockquote>
+&lt;h2 id="quote-center">Quote Center&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">quote-center&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>The curfew tolls the knell of parting day,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>The lowing herd wind slowly o&amp;#39;er the lea
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>The ploughman homeward plods his weary way,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>And leaves the world to darkness and to me.
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">quote-center&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;blockquote class="quote quote-center text-center rounded-none relative border-y border-gray-200 dark:border-darkBorder py-4">
+&lt;p>The curfew tolls the knell of parting day,&lt;br>
+The lowing herd wind slowly o&amp;rsquo;er the lea&lt;br>
+The ploughman homeward plods his weary way,&lt;br>
+And leaves the world to darkness and to me.&lt;/p>&lt;/blockquote>
+&lt;h2 id="tags">Tags&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">red&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">green&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">blue&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">orange&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">red&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">green&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">blue&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">orange&lt;/span> &lt;span style="color:#50fa7b">tag&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This is a
+&lt;span class=" rounded py-1 px-2 text-sm text-white bg-red-500">red tag&lt;/span>
+This is a
+&lt;span class=" rounded py-1 px-2 text-sm text-white bg-green-500">green tag&lt;/span>
+This is a
+&lt;span class=" rounded py-1 px-2 text-sm text-white bg-blue-500">blue tag&lt;/span>
+This is a
+&lt;span class=" rounded py-1 px-2 text-sm text-white bg-orange-500">orange tag&lt;/span>&lt;/p>
+&lt;p>This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-red-500 text-red-500">red tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-green-500 text-green-500">green tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-blue-500 text-blue-500">blue tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-orange-500 text-orange-500">orange tag&lt;/span>&lt;/p>
+&lt;h2 id="progress-bar">Progress bar&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">80&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Name&lt;/span> &lt;span style="color:#50fa7b">of&lt;/span> &lt;span style="color:#50fa7b">progress&lt;/span> &lt;span style="color:#50fa7b">bar&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">77&lt;/span>.&lt;span style="color:#50fa7b">54&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Name&lt;/span> &lt;span style="color:#50fa7b">of&lt;/span> &lt;span style="color:#50fa7b">progress&lt;/span> &lt;span style="color:#50fa7b">bar&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">123&lt;/span>.&lt;span style="color:#50fa7b">45&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Name&lt;/span> &lt;span style="color:#50fa7b">of&lt;/span> &lt;span style="color:#50fa7b">progress&lt;/span> &lt;span style="color:#50fa7b">bar&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">11&lt;/span>.&lt;span style="color:#50fa7b">11&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Name&lt;/span> &lt;span style="color:#50fa7b">of&lt;/span> &lt;span style="color:#50fa7b">progress&lt;/span> &lt;span style="color:#50fa7b">bar&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;div class=" my-4">
+&lt;div class=" flex justify-between">
+&lt;div class="">Name of progress bar&lt;/div>
+&lt;div class="">80%&lt;/div>
+&lt;/div>
+&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
+&lt;div class=" h-2 bg-green-400" style="width: 80%;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class=" my-4">
+&lt;div class=" flex justify-between">
+&lt;div class="">Name of progress bar&lt;/div>
+&lt;div class="">77.54%&lt;/div>
+&lt;/div>
+&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
+&lt;div class=" h-2 bg-red-400" style="width: 77.54%;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class=" my-4">
+&lt;div class=" flex justify-between">
+&lt;div class="">Name of progress bar&lt;/div>
+&lt;div class="">123.45%&lt;/div>
+&lt;/div>
+&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
+&lt;div class=" h-2 bg-blue-400" style="width: 123.45%;">&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div class=" my-4">
+&lt;div class=" flex justify-between">
+&lt;div class="">Name of progress bar&lt;/div>
+&lt;div class="">11.11%&lt;/div>
+&lt;/div>
+&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
+&lt;div class=" h-2 bg-orange-400" style="width: 11.11%;">&lt;/div>
+&lt;/div>
+&lt;/div>&lt;/p>
+&lt;h2 id="accordion">Accordion&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">accordion&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Foods&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Vegetables
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fruits
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fish
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">accordion&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;details class=" border dark:border-darkBorder rounded" open>
+&lt;summary class="px-4 py-2 flex items-center font-bold before:text-gray-300 before:text-xl">Foods&lt;/summary>
+&lt;div class=" px-4 py-2 border-t dark:border-darkBorder">&lt;ul>
+&lt;li>Vegetables&lt;/li>
+&lt;li>Fruits&lt;/li>
+&lt;li>Fish&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;/details>
+&lt;h2 id="divided-line">Divided Line&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hr&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">some&lt;/span> &lt;span style="color:#50fa7b">text&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;fieldset class="my-16 border-t border-gray-300 dark:border-darkBorder">
+&lt;legend class=" px-2 mx-auto my-0">some text&lt;/legend>
+&lt;/fieldset>
+&lt;h2 id="hidden-text">Hidden Text&lt;/h2>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">hidden-text&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Hide&lt;/span> &lt;span style="color:#50fa7b">text&lt;/span>&amp;#34; &lt;span style="color:#50fa7b">blur&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>This is a {{&amp;lt; &lt;span style="color:#ff79c6">hidden-text&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Hide&lt;/span> &lt;span style="color:#50fa7b">text&lt;/span>&amp;#34; &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>This is a &lt;span class=" inline-block transition ease-in-out filter blur-sm hover:filter-none">Hide text&lt;/span>&lt;/p>
+&lt;p>This is a &lt;span class=" relative inline-block leading-none after:block after:bg-darkBg dark:after:bg-darkText after:z-50 after:transition after:ease-in-out hover:after:bg-transparent dark:hover:after:bg-transparent after:absolute after:left-0 after:top-0 after:w-full after:h-full after:rounded after:pointer-events-none">Hide text&lt;/span>&lt;/p>
+&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hidden&lt;/span> &lt;span style="color:#50fa7b">blur&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">&amp;gt; &lt;/span>&lt;span style="text-decoration:underline">This is a hidden block
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="text-decoration:underline">&lt;/span>{{&amp;lt; /&lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Vegetables
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fruits
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fish
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class=" transition ease-in-out filter blur-sm hover:filter-none ">
+&lt;blockquote>
+&lt;p>This is a hidden block&lt;/p>
+&lt;/blockquote>
+&lt;/div>
+&lt;div class=" relative after:block after:bg-darkBg dark:after:bg-darkText after:z-50 after:transition after:ease-in-out hover:after:bg-transparent dark:hover:after:bg-transparent after:absolute after:left-0 after:top-0 after:w-full after:h-full after:rounded after:pointer-events-none">
+&lt;ul>
+&lt;li>Vegetables&lt;/li>
+&lt;li>Fruits&lt;/li>
+&lt;li>Fish&lt;/li>
+&lt;/ul>
+&lt;/div></description></item><item><title>Flower Gallery</title><link>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</link><pubDate>Fri, 15 Apr 2022 02:49:13 +0200</pubDate><guid>https://hugo-theme-luna.imiku.me/2022/04/15/flower-gallery.html/</guid><description>&lt;h2 id="spring">Spring.&lt;/h2>
+&lt;blockquote class="quote quote-center text-center rounded-none relative border-y border-gray-200 dark:border-darkBorder py-4">&lt;p>&lt;em>Today is the day when bold kites fly,&lt;/em>&lt;/p>
 &lt;p>&lt;em>When cumulus clouds roar across the sky.&lt;/em>&lt;/p>
 &lt;p>&lt;em>When robins return,when children cheer,&lt;/em>&lt;/p>
 &lt;p>&lt;em>When light rain beckons spring to appear.&lt;/em>&lt;/p>
@@ -7,7 +358,8 @@
 &lt;p>&lt;em>Which children pick to fill the room,&lt;/em>&lt;/p>
 &lt;p>&lt;em>Today is the day when grasses green,&lt;/em>&lt;/p>
 &lt;p>&lt;em>When leaves burst forth for spring to be seen.&lt;/em>&lt;/p>
-&lt;p>&lt;em>—— Robert McCracken .&lt;/em>&lt;/p>
+&lt;/blockquote>
+&lt;p style="text-align:right">—— Robert McCracken .&lt;/p>
 &lt;h2 id="flower">Flower&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
