@@ -24,18 +24,18 @@
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">github&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;Organic-Carbon-Estimating&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">link&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://github.com/guanqr/Organic-Carbon-Estimating&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">description&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;A program used in estimating organic carbon stocks in oceans. 计算指定海域的有机碳存量，包括颗粒有机碳与溶解有机碳，数据依赖于 NASA 中分辨率成像光谱仪 MODIS 遥感产品。&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">color&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;#e16737&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">language&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;MATLAB&amp;#34;&lt;/span> &amp;gt;}}
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">github&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;tailwindcss&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">link&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://github.com/tailwindlabs/tailwindcss&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">description&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;A utility-first CSS framework for rapid UI development.&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">color&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;#f1e05a&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">language&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;JavaScript&amp;#34;&lt;/span> &amp;gt;}}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;div class="github border dark:border-darkBorder p-4 rounded my-4">
 &lt;div class="flex items-center text-xl">
 &lt;i class="eva eva-github mr-2">&lt;/i>
-&lt;a class=" before:hidden" href=https://github.com/guanqr/Organic-Carbon-Estimating target="_blank">Organic-Carbon-Estimating&lt;/a>
+&lt;a class=" before:hidden" href=https://github.com/tailwindlabs/tailwindcss target="_blank">tailwindcss&lt;/a>
 &lt;/div>
-&lt;div class=" leading-6 my-2">A program used in estimating organic carbon stocks in oceans. 计算指定海域的有机碳存量，包括颗粒有机碳与溶解有机碳，数据依赖于 NASA 中分辨率成像光谱仪 MODIS 遥感产品。&lt;/div>
+&lt;div class=" leading-6 my-2">A utility-first CSS framework for rapid UI development.&lt;/div>
 &lt;div class="flex items-center">
-&lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #e16737">&lt;/span>
-&lt;span>MATLAB&lt;/span>
+&lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #f1e05a">&lt;/span>
+&lt;span>JavaScript&lt;/span>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="github-自动获取">GitHub 自动获取&lt;/h2>
@@ -205,17 +205,17 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-red-500">红色标签&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-red-500">红色标签&lt;/span>
 这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-green-500">绿色标签&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-green-500">绿色标签&lt;/span>
 这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-blue-500">蓝色标签&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-blue-500">蓝色标签&lt;/span>
 这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-orange-500">橘色标签&lt;/span>&lt;/p>
-&lt;p>这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-red-500 text-red-500">红色标签&lt;/span>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-green-500 text-green-500">绿色标签&lt;/span>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-blue-500 text-blue-500">蓝色标签&lt;/span>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-orange-500 text-orange-500">橘色标签&lt;/span>&lt;/p>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-orange-500">橘色标签&lt;/span>&lt;/p>
+&lt;p>这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-red-500 text-red-500">红色标签&lt;/span>
+这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-green-500 text-green-500">绿色标签&lt;/span>
+这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-blue-500 text-blue-500">蓝色标签&lt;/span>
+这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-orange-500 text-orange-500">橘色标签&lt;/span>&lt;/p>
 &lt;h2 id="进度条">进度条&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">

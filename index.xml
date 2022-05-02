@@ -199,17 +199,17 @@ And leaves the world to darkness and to me.&lt;/p>&lt;/blockquote>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;p>This is a
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-red-500">red tag&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-red-500">red tag&lt;/span>
 This is a
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-green-500">green tag&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-green-500">green tag&lt;/span>
 This is a
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-blue-500">blue tag&lt;/span>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-blue-500">blue tag&lt;/span>
 This is a
-&lt;span class=" rounded py-1 px-2 text-sm text-white bg-orange-500">orange tag&lt;/span>&lt;/p>
-&lt;p>This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-red-500 text-red-500">red tag&lt;/span>
-This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-green-500 text-green-500">green tag&lt;/span>
-This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-blue-500 text-blue-500">blue tag&lt;/span>
-This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 bg-orange-500 text-orange-500">orange tag&lt;/span>&lt;/p>
+&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-orange-500">orange tag&lt;/span>&lt;/p>
+&lt;p>This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-red-500 text-red-500">red tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-green-500 text-green-500">green tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-blue-500 text-blue-500">blue tag&lt;/span>
+This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-orange-500 text-orange-500">orange tag&lt;/span>&lt;/p>
 &lt;h2 id="progress-bar">Progress bar&lt;/h2>
 &lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
