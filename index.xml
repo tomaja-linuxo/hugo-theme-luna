@@ -271,7 +271,7 @@ This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-no
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">accordion&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Foods&lt;/span>&amp;#34; &amp;gt;}}
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">accordion&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">Foods&lt;/span>&amp;#34; &lt;span style="color:#50fa7b">open&lt;/span> &amp;gt;}}
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Vegetables
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fruits
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fish
@@ -279,7 +279,7 @@ This is a &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-no
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
 &lt;/div>&lt;details class=" border dark:border-darkBorder rounded" open>
-&lt;summary class="px-4 py-2 flex items-center font-bold before:text-gray-300 before:text-xl">Foods&lt;/summary>
+&lt;summary class="px-4 py-2 flex items-center font-bold before:text-gray-400 before:-mt-0.5 before:text-xl">Foods&lt;/summary>
 &lt;div class=" px-4 py-2 border-t dark:border-darkBorder">&lt;ul>
 &lt;li>Vegetables&lt;/li>
 &lt;li>Fruits&lt;/li>
